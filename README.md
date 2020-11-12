@@ -1,1 +1,2 @@
-# Chayns_with_Flutter
+#	Prototypische Portierung des Sites-Tab der chayns-App mit Flutter
+Dieses Github-Projekt beinhaltet die prototypische Portierung des Sites Tabs der App chayns mit dem Cross-Platform Framework Flutter.
